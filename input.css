@@ -1,0 +1,14 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer utilities {
+    .rounded-scrollbar-track::-webkit-scrollbar-track {
+      border-radius: 4px; /* Adjust the value to control the roundness */
+    }
+    .rounded-scrollbar-thumb::-webkit-scrollbar-thumb {
+        border-radius: 6px; /* Adjust the value to control the roundness */
+      }
+
+      
+  }
