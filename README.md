@@ -2,6 +2,8 @@
  The Profile Page project is a representation of a user's profile layout, designed from scratch using HTML for structure, CSS for styling, and leveraging Tailwind CSS for additional design components and responsiveness.
  
 # Overview
+![image](https://github.com/Onkar-Dhotarkar/FB_Login_Page-Clone/assets/142321110/fba12cb1-81b8-4d4d-bb62-8ac5b83bf488)
+
 This project showcases a personalized profile page built using HTML, CSS, and Tailwind CSS. It serves as a practical exercise for honing design and coding skills in frontend development.
 
 # Features
