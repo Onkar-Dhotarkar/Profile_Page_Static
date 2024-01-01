@@ -7,10 +7,10 @@
 This project showcases a personalized profile page built using HTML, CSS, and Tailwind CSS. It serves as a practical exercise for honing design and coding skills in frontend development.
 
 # Features
-HTML/CSS Implementation: Constructed with HTML and CSS to create a visually appealing and responsive user profile interface.
-Tailwind CSS Integration: Utilized Tailwind CSS, a utility-first CSS framework, to expedite styling and enhance design elements across the profile page.
-Design Practice: This project serves as a design and coding exercise to refine frontend development skills and understand the application of Tailwind CSS for improved design aesthetics.
-Non-functional Profile: This project focuses solely on the visual presentation of a profile and does not include functional backend components.
+HTML/CSS Implementation: Constructed with HTML and CSS to create a visually appealing and responsive user profile interface.<br>
+Tailwind CSS Integration: Utilized Tailwind CSS, a utility-first CSS framework, to expedite styling and enhance design elements across the profile page.<br>
+Design Practice: This project serves as a design and coding exercise to refine frontend development skills and understand the application of Tailwind CSS for improved design aesthetics.<br>
+Non-functional Profile: This project focuses solely on the visual presentation of a profile and does not include functional backend components.<br>
 
 # Usage
 The Profile Page project is an instructional reference for HTML, CSS, and Tailwind CSS enthusiasts seeking insights into frontend development techniques. It provides an example of structuring and styling a user profile page using modern web technologies.
